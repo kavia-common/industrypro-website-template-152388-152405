@@ -1,3 +1,4 @@
 /* Base reset kept intentionally light; theme rules in theme.css */
 html, body { padding: 0; margin: 0; }
 * { box-sizing: border-box; }
+:root { color-scheme: dark; }

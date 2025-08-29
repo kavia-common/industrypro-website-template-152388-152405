@@ -5,6 +5,15 @@ Dark-themed React SPA with modular sections:
 - Responsive, modern nav and footer
 - Backend integration for content and contact submissions
 
+Now upgraded to a premium experience:
+- Google Fonts (Plus Jakarta Sans) and Font Awesome icons
+- Animated navigation with Framer Motion
+- Scroll reveal transitions with AOS
+- Hero with background imagery overlay and CTAs
+- Trust logos/testimonials band
+- Enhanced forms with icons, focus states, and accessibility
+- Rich hover/focus interactions and micro-animations
+
 ## Run
 
 1. Copy environment example and set backend URL if backend is on a different origin:
